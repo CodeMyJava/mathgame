@@ -1,2 +1,2 @@
-http://a00992503.azurewebsites.net/login.php
+http://A00992503V2.azurewebsites.net/login.php
 
